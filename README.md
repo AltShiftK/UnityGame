@@ -37,6 +37,9 @@ Examples of some games with some related concepts:
 
 **Twists**
 
+ * Custom Level Design
+ * Gets Harder Every Level
+ * Infinite Amount of Levels
 
 
 ## Challenges
