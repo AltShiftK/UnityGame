@@ -21,6 +21,17 @@ Powerups are obtainable throughout the level; Certain powerups are for certain p
 
 ### Mechanics
 
+  *Free Realm Movement
+    *Jumping
+    *Dashing
+  *Interactable Objects
+    *Traps
+    *Powerups
+    *Jumppad
+  *Multiple Pathways
+    *Gives players choices.
+  *Random Generation
+
 
 ## Challenges
 
