@@ -1,7 +1,3 @@
-# UnityGame Repos
-A repo of a Unity Game
-
-
 # UnityGame Game Bible
 
 ## Story
@@ -15,13 +11,16 @@ Powerups are obtainable throughout the level; Certain powerups are for certain p
 
 **Examples**
 
-[Subway Surfers Example](http://cdn-www.bluestacks.com/AndroidTapp/2012/09/Subway-Surfers-Gameplay-2.png)\
+[Subway Surfers Example](http://cdn-www.bluestacks.com/AndroidTapp/2012/09/Subway-Surfers-Gameplay-2.png)
 
 
 
 ## Character
 
 ## Gameplay
+
+### Mechanics
+
 
 ## Challenges
 
