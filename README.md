@@ -5,9 +5,9 @@
  1. [Story](https://github.com/coolman221/UnityGame/blob/main/README.md#story)
  2. [Characters](https://github.com/coolman221/UnityGame/blob/main/README.md#characters)
  3. [Gameplay](https://github.com/coolman221/UnityGame/blob/main/README.md#gameplay)
-  * [Mechanics](https://github.com/coolman221/UnityGame/blob/main/README.md#mechanics)
- 4. [Challenges](https://github.com/coolman221/UnityGame/blob/main/README.md#challenges)
- 5. [Levels](https://github.com/coolman221/UnityGame/blob/main/README.md#levels)
+  4. [Mechanics](https://github.com/coolman221/UnityGame/blob/main/README.md#mechanics)
+ 5. [Challenges](https://github.com/coolman221/UnityGame/blob/main/README.md#challenges)
+ 6. [Levels](https://github.com/coolman221/UnityGame/blob/main/README.md#levels)
 
 
 ## Story
