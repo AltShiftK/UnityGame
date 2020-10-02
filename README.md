@@ -2,12 +2,12 @@
 
 ## Table Of Contents
 
-
-
-
-
-
-
+ 1. [Story](https://github.com/coolman221/UnityGame/blob/main/README.md#story)
+ 2. [Characters](https://github.com/coolman221/UnityGame/blob/main/README.md#characters)
+ 3. [Gameplay](https://github.com/coolman221/UnityGame/blob/main/README.md#gameplay)
+  1. [Mechanics](https://github.com/coolman221/UnityGame/blob/main/README.md#mechanics)
+ 4. [Challenges](https://github.com/coolman221/UnityGame/blob/main/README.md#challenges
+ 5. [Levels](https://github.com/coolman221/UnityGame/blob/main/README.md#levels)
 
 
 ## Story
@@ -27,7 +27,7 @@ Examples of some games with some related concepts:
  * Tomb Runner
  * Fall Guys
 
-## Character
+## Characters
 
 ## Gameplay
 
@@ -57,4 +57,4 @@ Examples of some games with some related concepts:
 ## Levels
 
 
-** Go To Top **
+[**Go To Top**](https://github.com/coolman221/UnityGame/blob/main/README.md#unitygame-game-bible)
