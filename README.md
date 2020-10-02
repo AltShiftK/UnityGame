@@ -11,9 +11,11 @@ Powerups are obtainable throughout the level; Certain powerups are for certain p
 
 **Examples**
 
-[Subway Surfers Example](http://cdn-www.bluestacks.com/AndroidTapp/2012/09/Subway-Surfers-Gameplay-2.png)
+Examples of some games with some related concepts:
 
-
+ * Subway Surfers
+ * Tomb Runner
+ * Fall Guys
 
 ## Character
 
